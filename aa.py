@@ -38,7 +38,7 @@ def main():
     # getting the input data from the user
     
     
-    Time = st.text_input('Enter Value ')
+    Time = st.text_input('Enter Time ')
     v1 = st.text_input('Enter Value1')
     v2 = st.text_input('Enter Value2')
     v3 = st.text_input('Enter Value3')
@@ -70,7 +70,7 @@ def main():
    
     
     
-    Amount = st.text_input('Age of the Person')
+    Amount = st.text_input('Amount withdrawed')
     
     
     # code for Prediction
